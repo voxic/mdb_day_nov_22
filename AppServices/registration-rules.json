@@ -1,0 +1,13 @@
+{
+    "roles": [
+      {
+        "name": "addRegitration",
+        "apply_when": {
+          "%%user.identities.provider_type": "anon-user"
+        },
+        "read": true,
+        "write": true,
+        "insert": true
+      }
+    ]
+  }
