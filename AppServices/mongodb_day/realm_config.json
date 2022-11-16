@@ -1,0 +1,8 @@
+{
+    "app_id": "mongodb_day-imdlr",
+    "config_version": 20210101,
+    "name": "mongodb_day",
+    "location": "IE",
+    "provider_region": "aws-eu-west-1",
+    "deployment_model": "LOCAL"
+}
